@@ -7,15 +7,15 @@ KMeans pure python implementation
 It is recommended to implement code using jupyter notebook
 
 <b>Imported packages</b>
-<li><ol>import math</ol>
-  <ol>import random</ol>
-  </li>
+<ol><li>import math</li>
+  <li>import random</li>
+  </ol>
  The sample data for the code will  be used from iris datasets.
  
- Further Algoritm references were made from the Standford CS221 Course available in the <a href"http://stanford.edu/~cpiech/cs221/handouts/kmeans.html">link</a>
+ Further Algoritm references were made from the Standford CS221 Course available in the <a href="http://stanford.edu/~cpiech/cs221/handouts/kmeans.html">link</a>
  
- For further queries about the code :
- Contact :Judson Gabriel George J
-          CEG,Guindy
-          chennai
+ For further queries about the code :<br>
+ Contact :Judson Gabriel George J<br>
+          CEG,Guindy<br>
+          chennai<br>
           mail@:hockeyjudson@gmail.com
